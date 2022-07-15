@@ -20,28 +20,28 @@ Specialty: Information Systems
 
 `November 2015 - January 2017`
 __Hewlett Packard Enterprise__
-Job title: Technical Consultant
-Responsibilities and tasks:
-- Administration of "Hewlett Packard Service Manager" system
-- Tailoring "Hewlett Packard Service Manager" to fit customer's business needs
-- Providing technical consulting for customers regarding their IT services management
+- Job title: *Technical Consultant*
+- Responsibilities and tasks:
+* Administration of "Hewlett Packard Service Manager" system
+* Tailoring "Hewlett Packard Service Manager" to fit customer's business needs
+* Providing technical consulting for customers regarding their IT services management
 
 `January 2017 - October 2020`
 __I-Teco LLC__
-Job title: Senior Technical Consultant
-Responsibilities and tasks:
-- Administration and tailoring of HPSM ("Hewlett Packard Service Manager")
-- Development of external webservices on Java to supplement HPSM
-- Further development of HPSM web interface, styling, scripting
-- Designing an architecture for big distributed IT service management systems for large companies
+- Job title: *Senior Technical Consultant*
+- Responsibilities and tasks:
+* Administration and tailoring of HPSM ("Hewlett Packard Service Manager")
+* Development of external webservices on Java to supplement HPSM
+* Further development of HPSM web interface, styling, scripting
+* Designing an architecture for big distributed IT service management systems for large companies
 
 `November 2020 - March 2022`
 __Corel Corporation__
-Job title: Junior Software Developer
-Responsibilities and tasks:
-- Finding and fixing bugs in "Parallels Desktop For Mac" virtualization software
-- Implementing new minor features
-- Further development of existing features and tools
-- Windows driver development
-- Debugging using LLDB or reading windows crash dumps
+- Job title: *Junior Software Developer*
+- Responsibilities and tasks:
+* Finding and fixing bugs in "Parallels Desktop For Mac" virtualization software
+* Implementing new minor features
+* Further development of existing features and tools
+* Windows driver development
+* Debugging using LLDB or reading windows crash dumps
 
