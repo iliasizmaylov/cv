@@ -16,6 +16,23 @@ Software Developer
 __Moscow State University of Printing Arts__
 Specialty: Information Systems
 
+## Key Skills
+
+- C\C++ (STL, multithreading, POSIX)
+- x86 architecture
+- Python
+- Javascript
+- Asm
+- Make, CMake
+- Git
+- XCode, MS VC, vim
+
+## Other Skills
+
+- Jira
+- Jenkins
+- Fluent English
+
 ## Previous Occupations
 
 `November 2015 - January 2017`
