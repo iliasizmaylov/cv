@@ -14,7 +14,7 @@ Software Developer
 
 `2011-2015`
 __Moscow State University of Printing Arts__
-Specialty: Information Systems
+- Specialty: Information Systems
 
 ## Key Skills
 
